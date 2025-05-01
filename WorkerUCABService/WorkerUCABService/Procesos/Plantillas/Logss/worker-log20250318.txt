@@ -1,0 +1,174 @@
+2025-03-18 09:19:05.098 -05:00 [INF] Worker not starting as per configuration during installation.
+2025-03-18 09:19:05.244 -05:00 [INF] Worker has stopped.
+2025-03-18 09:19:05.252 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:19:05.275 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:19:05.282 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:19:44.808 -05:00 [INF] Application is shutting down...
+2025-03-18 09:20:02.474 -05:00 [INF] Worker not starting as per configuration during installation.
+2025-03-18 09:20:02.641 -05:00 [INF] Worker has stopped.
+2025-03-18 09:20:02.652 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:20:02.674 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:20:02.683 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:23:12.834 -05:00 [INF] Worker not starting as per configuration during installation.
+2025-03-18 09:23:12.947 -05:00 [INF] Worker has stopped.
+2025-03-18 09:23:12.955 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:23:12.975 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:23:12.981 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:26:03.982 -05:00 [INF] Worker not starting as per configuration during installation.
+2025-03-18 09:26:04.176 -05:00 [INF] Worker has stopped.
+2025-03-18 09:26:04.185 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:26:04.208 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:26:04.216 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:27:08.680 -05:00 [INF] Worker running at: "2025-03-18T09:27:08.6067727-05:00"
+2025-03-18 09:27:09.257 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:27:09.762 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:27:09.763 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:27:09.765 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:27:12.416 -05:00 [INF] Proceso Registrado
+2025-03-18 09:27:22.428 -05:00 [INF] Worker running at: "2025-03-18T09:27:22.4281718-05:00"
+2025-03-18 09:27:22.430 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:27:23.081 -05:00 [INF] Proceso Registrado
+2025-03-18 09:27:33.085 -05:00 [INF] Worker running at: "2025-03-18T09:27:33.0850016-05:00"
+2025-03-18 09:27:33.087 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:27:33.716 -05:00 [INF] Proceso Registrado
+2025-03-18 09:27:43.720 -05:00 [INF] Worker running at: "2025-03-18T09:27:43.7201715-05:00"
+2025-03-18 09:27:43.722 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:27:44.628 -05:00 [INF] Proceso Registrado
+2025-03-18 09:27:54.640 -05:00 [INF] Worker running at: "2025-03-18T09:27:54.6400191-05:00"
+2025-03-18 09:27:54.642 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:27:55.369 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:05.380 -05:00 [INF] Worker running at: "2025-03-18T09:28:05.3808329-05:00"
+2025-03-18 09:28:05.382 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:28:06.339 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:16.345 -05:00 [INF] Worker running at: "2025-03-18T09:28:16.3450103-05:00"
+2025-03-18 09:28:16.347 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:28:17.281 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:27.291 -05:00 [INF] Worker running at: "2025-03-18T09:28:27.2915116-05:00"
+2025-03-18 09:28:27.293 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:28:27.931 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:37.951 -05:00 [INF] Worker running at: "2025-03-18T09:28:37.9517505-05:00"
+2025-03-18 09:28:37.955 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:28:38.705 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:48.729 -05:00 [INF] Worker running at: "2025-03-18T09:28:48.7298785-05:00"
+2025-03-18 09:28:48.735 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:28:49.497 -05:00 [INF] Proceso Registrado
+2025-03-18 09:28:59.511 -05:00 [INF] Worker running at: "2025-03-18T09:28:59.5118994-05:00"
+2025-03-18 09:28:59.517 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:00.210 -05:00 [INF] Proceso Registrado
+2025-03-18 09:29:10.235 -05:00 [INF] Worker running at: "2025-03-18T09:29:10.2358847-05:00"
+2025-03-18 09:29:10.240 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:10.957 -05:00 [INF] Proceso Registrado
+2025-03-18 09:29:20.977 -05:00 [INF] Worker running at: "2025-03-18T09:29:20.9773605-05:00"
+2025-03-18 09:29:20.980 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:21.737 -05:00 [INF] Proceso Registrado
+2025-03-18 09:29:31.768 -05:00 [INF] Worker running at: "2025-03-18T09:29:31.7682366-05:00"
+2025-03-18 09:29:31.778 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:32.634 -05:00 [INF] Proceso Registrado
+2025-03-18 09:29:42.648 -05:00 [INF] Worker running at: "2025-03-18T09:29:42.6488232-05:00"
+2025-03-18 09:29:42.657 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:43.443 -05:00 [INF] Proceso Registrado
+2025-03-18 09:29:53.457 -05:00 [INF] Worker running at: "2025-03-18T09:29:53.4577550-05:00"
+2025-03-18 09:29:53.460 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:29:54.122 -05:00 [INF] Proceso Registrado
+2025-03-18 09:30:04.130 -05:00 [INF] Worker running at: "2025-03-18T09:30:04.1303947-05:00"
+2025-03-18 09:30:04.136 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:30:05.128 -05:00 [INF] Proceso Registrado
+2025-03-18 09:30:15.145 -05:00 [INF] Worker running at: "2025-03-18T09:30:15.1451137-05:00"
+2025-03-18 09:30:15.146 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:30:15.815 -05:00 [INF] Proceso Registrado
+2025-03-18 09:30:25.842 -05:00 [INF] Worker running at: "2025-03-18T09:30:25.8425051-05:00"
+2025-03-18 09:30:25.845 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:30:26.571 -05:00 [INF] Proceso Registrado
+2025-03-18 09:34:08.036 -05:00 [INF] Worker running at: "2025-03-18T09:34:07.9776681-05:00"
+2025-03-18 09:34:08.187 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:34:08.402 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:34:08.404 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:34:08.405 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:34:13.340 -05:00 [INF] Proceso Registrado
+2025-03-18 09:34:28.632 -05:00 [INF] Worker running at: "2025-03-18T09:34:28.6303823-05:00"
+2025-03-18 09:34:29.764 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:36:42.010 -05:00 [INF] Proceso Registrado
+2025-03-18 09:36:56.608 -05:00 [INF] Worker running at: "2025-03-18T09:36:56.6068448-05:00"
+2025-03-18 09:36:57.689 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:39:50.667 -05:00 [INF] Proceso Registrado
+2025-03-18 09:42:35.268 -05:00 [INF] Worker running at: "2025-03-18T09:42:35.2073456-05:00"
+2025-03-18 09:42:35.436 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:42:35.659 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-18 09:42:35.661 -05:00 [INF] Hosting environment: Development
+2025-03-18 09:42:35.663 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2025-03-18 09:42:37.465 -05:00 [INF] Proceso Registrado
+2025-03-18 09:42:47.498 -05:00 [INF] Worker running at: "2025-03-18T09:42:47.4987806-05:00"
+2025-03-18 09:42:47.510 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:42:48.283 -05:00 [INF] Proceso Registrado
+2025-03-18 09:42:58.302 -05:00 [INF] Worker running at: "2025-03-18T09:42:58.3020320-05:00"
+2025-03-18 09:42:58.312 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:42:59.064 -05:00 [INF] Proceso Registrado
+2025-03-18 09:43:09.078 -05:00 [INF] Worker running at: "2025-03-18T09:43:09.0781932-05:00"
+2025-03-18 09:43:09.087 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:43:16.871 -05:00 [INF] Proceso Registrado
+2025-03-18 09:43:26.885 -05:00 [INF] Worker running at: "2025-03-18T09:43:26.8854222-05:00"
+2025-03-18 09:43:26.887 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:43:27.584 -05:00 [INF] Proceso Registrado
+2025-03-18 09:43:37.593 -05:00 [INF] Worker running at: "2025-03-18T09:43:37.5937130-05:00"
+2025-03-18 09:43:37.604 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:43:38.357 -05:00 [INF] Proceso Registrado
+2025-03-18 09:43:48.375 -05:00 [INF] Worker running at: "2025-03-18T09:43:48.3751701-05:00"
+2025-03-18 09:43:48.383 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:43:49.025 -05:00 [INF] Proceso Registrado
+2025-03-18 09:43:59.039 -05:00 [INF] Worker running at: "2025-03-18T09:43:59.0391461-05:00"
+2025-03-18 09:43:59.049 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:43:59.758 -05:00 [INF] Proceso Registrado
+2025-03-18 09:44:09.777 -05:00 [INF] Worker running at: "2025-03-18T09:44:09.7775914-05:00"
+2025-03-18 09:44:09.787 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:44:10.532 -05:00 [INF] Proceso Registrado
+2025-03-18 09:44:20.536 -05:00 [INF] Worker running at: "2025-03-18T09:44:20.5368518-05:00"
+2025-03-18 09:44:20.546 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:44:21.320 -05:00 [INF] Proceso Registrado
+2025-03-18 09:44:31.337 -05:00 [INF] Worker running at: "2025-03-18T09:44:31.3371518-05:00"
+2025-03-18 09:44:31.347 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:44:32.089 -05:00 [INF] Proceso Registrado
+2025-03-18 09:44:42.096 -05:00 [INF] Worker running at: "2025-03-18T09:44:42.0966620-05:00"
+2025-03-18 09:44:42.106 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:44:42.766 -05:00 [INF] Proceso Registrado
+2025-03-18 09:44:52.777 -05:00 [INF] Worker running at: "2025-03-18T09:44:52.7778066-05:00"
+2025-03-18 09:44:52.788 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:44:53.437 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:03.449 -05:00 [INF] Worker running at: "2025-03-18T09:45:03.4496491-05:00"
+2025-03-18 09:45:03.458 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:04.168 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:14.191 -05:00 [INF] Worker running at: "2025-03-18T09:45:14.1917681-05:00"
+2025-03-18 09:45:14.198 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:15.090 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:25.100 -05:00 [INF] Worker running at: "2025-03-18T09:45:25.1005849-05:00"
+2025-03-18 09:45:25.111 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:25.882 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:35.885 -05:00 [INF] Worker running at: "2025-03-18T09:45:35.8856225-05:00"
+2025-03-18 09:45:35.895 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:36.529 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:46.539 -05:00 [INF] Worker running at: "2025-03-18T09:45:46.5394556-05:00"
+2025-03-18 09:45:46.542 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:47.210 -05:00 [INF] Proceso Registrado
+2025-03-18 09:45:57.233 -05:00 [INF] Worker running at: "2025-03-18T09:45:57.2330780-05:00"
+2025-03-18 09:45:57.242 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:45:58.048 -05:00 [INF] Proceso Registrado
+2025-03-18 09:46:08.063 -05:00 [INF] Worker running at: "2025-03-18T09:46:08.0637803-05:00"
+2025-03-18 09:46:08.073 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:46:09.063 -05:00 [INF] Proceso Registrado
+2025-03-18 09:46:19.078 -05:00 [INF] Worker running at: "2025-03-18T09:46:19.0784799-05:00"
+2025-03-18 09:46:19.087 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:46:19.802 -05:00 [INF] Proceso Registrado
+2025-03-18 09:46:29.820 -05:00 [INF] Worker running at: "2025-03-18T09:46:29.8203395-05:00"
+2025-03-18 09:46:29.823 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:46:30.650 -05:00 [INF] Proceso Registrado
+2025-03-18 09:46:40.666 -05:00 [INF] Worker running at: "2025-03-18T09:46:40.6667717-05:00"
+2025-03-18 09:46:40.670 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:46:41.366 -05:00 [INF] Proceso Registrado
+2025-03-18 09:46:51.375 -05:00 [INF] Worker running at: "2025-03-18T09:46:51.3754481-05:00"
+2025-03-18 09:46:51.377 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:46:52.154 -05:00 [INF] Proceso Registrado
+2025-03-18 09:47:02.165 -05:00 [INF] Worker running at: "2025-03-18T09:47:02.1659082-05:00"
+2025-03-18 09:47:02.170 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:47:02.952 -05:00 [INF] Proceso Registrado
+2025-03-18 09:47:12.963 -05:00 [INF] Worker running at: "2025-03-18T09:47:12.9629721-05:00"
+2025-03-18 09:47:12.964 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-03-18 09:47:13.614 -05:00 [INF] Proceso Registrado

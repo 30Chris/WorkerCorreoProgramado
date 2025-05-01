@@ -1,0 +1,22 @@
+2025-04-29 21:00:46.460 -05:00 [INF] Worker running at: "2025-04-29T21:00:46.4306234-05:00"
+2025-04-29 21:00:49.741 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-04-29 21:00:56.385 -05:00 [INF] Servicio iniciado esperando indicaciones
+2025-04-29 21:01:40.021 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 21:01:40.023 -05:00 [INF] Hosting environment: Development
+2025-04-29 21:01:40.024 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Worker para subir\WorkerUCABService\WorkerUCABService
+2025-04-29 21:03:43.560 -05:00 [INF] Worker running at: "2025-04-29T21:03:43.5289123-05:00"
+2025-04-29 21:03:44.725 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-04-29 21:03:54.327 -05:00 [INF] Servicio iniciado esperando indicaciones
+2025-04-29 21:03:59.491 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 21:03:59.493 -05:00 [INF] Hosting environment: Development
+2025-04-29 21:03:59.494 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Worker para subir\WorkerUCABService\WorkerUCABService
+2025-04-29 21:04:08.472 -05:00 [INF] Application is shutting down...
+2025-04-29 21:05:06.241 -05:00 [INF] Worker running at: "2025-04-29T21:05:06.1898358-05:00"
+2025-04-29 21:05:06.390 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2025-04-29 21:05:06.392 -05:00 [INF] Servicio iniciado esperando indicaciones
+2025-04-29 21:05:06.406 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-29 21:05:06.407 -05:00 [INF] Hosting environment: Development
+2025-04-29 21:05:06.408 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Worker para subir\WorkerUCABService\WorkerUCABService
+2025-04-29 21:05:11.576 -05:00 [INF] Application is shutting down...
+2025-04-29 21:05:11.671 -05:00 [INF] Worker execution canceled.
+2025-04-29 21:05:11.674 -05:00 [INF] Worker has stopped.

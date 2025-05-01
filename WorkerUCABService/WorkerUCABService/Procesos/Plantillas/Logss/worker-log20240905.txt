@@ -1,0 +1,12 @@
+2024-09-05 11:23:45.748 -05:00 [INF] Worker running at: "2024-09-05T11:23:45.6574963-05:00"
+2024-09-05 11:23:47.030 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2024-09-05 11:23:47.551 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-05 11:23:47.690 -05:00 [INF] Hosting environment: Development
+2024-09-05 11:23:47.692 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2024-09-05 11:23:49.151 -05:00 [INF] Proceso Registrado
+2024-09-05 11:23:59.168 -05:00 [INF] Worker running at: "2024-09-05T11:23:59.1683528-05:00"
+2024-09-05 11:23:59.170 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2024-09-05 11:23:59.339 -05:00 [INF] Proceso Registrado
+2024-09-05 11:24:09.348 -05:00 [INF] Worker running at: "2024-09-05T11:24:09.3486073-05:00"
+2024-09-05 11:24:09.360 -05:00 [INF] Using connection string: Server=dbsvc-dev.ucab.edu.ve,3341;Database=UCABLINEA;User Id=usr_owner_ucablinea;Password=u_plJ572i_an
+2024-09-05 11:24:09.818 -05:00 [INF] Proceso Registrado

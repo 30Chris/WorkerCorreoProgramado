@@ -1,0 +1,6 @@
+2024-09-06 00:54:26.036 -05:00 [INF] Worker not starting as per configuration during installation.
+2024-09-06 00:54:26.205 -05:00 [INF] Worker has stopped.
+2024-09-06 00:54:26.214 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-09-06 00:54:26.236 -05:00 [INF] Hosting environment: Development
+2024-09-06 00:54:26.243 -05:00 [INF] Content root path: C:\Users\51947\Desktop\Proyectos En Desarrollo\WorkerUCABService\WorkerUCABService
+2024-09-06 00:55:08.630 -05:00 [INF] Application is shutting down...
